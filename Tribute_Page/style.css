@@ -1,0 +1,84 @@
+h1 {
+    text-align: center;
+    font-size: 90px;
+    background-color: rgb(143, 20, 20);
+    border-radius: 0px;
+    color: rgb(238, 204, 12);
+    margin-top: 0;
+    margin-bottom: 0;
+    text-shadow: rgb(0, 0, 0) 8px 8px 8px;
+    word-spacing: 2rem;
+    letter-spacing: 1rem;
+}
+
+body {
+    background-color: rgb(155, 151, 151);
+    font-style: bold;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h2 {
+    margin-top: 5px;
+    text-align: center;
+    color: rgb(238, 204, 12);
+    height: 60px;
+    width: 100%;
+    font-size: 70px;
+    text-shadow: rgb(248, 7, 7) 5px 2px 2px;
+    word-spacing: 1rem;
+    letter-spacing: 0.4rem;
+}
+
+p {
+    border: 2px solid rgb(155, 151, 151);
+    border-radius: 25px;
+    margin-top: 0;
+    width:460px;
+    float:left;
+    padding-left:50px;
+    font-size: 25px;
+}
+img {
+    margin-top: 0;
+}
+
+h3 {
+    margin-top: 0;
+    text-align: center;
+    color: rgb(238, 204, 12);
+    height: -1px;
+    width: 100%;
+    font-size: 70px; 
+    text-shadow: rgb(248, 7, 7) 5px 2px 2px;
+    word-spacing: 1rem;
+    letter-spacing: 0.6rem;
+}
+
+a {
+    text-decoration: none; 
+}
+
+.yellowText {
+    color: yellow;
+    text-shadow: rgb(248, 7, 7) 2px 2px 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
